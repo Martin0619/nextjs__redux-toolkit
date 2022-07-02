@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "prettier.arrowParens": "always",
+  "prettier.endOfLine": "lf",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 90,
+  "prettier.semi": false,
+}
